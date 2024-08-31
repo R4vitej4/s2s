@@ -1,5 +1,5 @@
 # steps to setup
-Ensure both servers are running simultaneously to use the /getdata endpoint on Server 2.
+Ensure both servers are running simultaneously to use the /paydart endpoint on Server 2.
 Server 2 relies on Server 1 being active to fetch data from it.
 
 # clone the repo
